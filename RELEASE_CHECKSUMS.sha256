@@ -1,0 +1,4 @@
+80a8cfb283fe4c6e5b96b38336fb50a0846da87268a2fcc5d5312fa76b04d3c0  apps/desktop/src-tauri/target/x86_64-apple-darwin/release/bundle/macos/Cobalix Orbital.app/Contents/MacOS/cobalix-obsidian
+ca0df93e11e70287dfcc04b9358ff030781460e6fb8259d0051a75b53113379f  apps/desktop/src-tauri/target/x86_64-apple-darwin/release/bundle/macos/Cobalix Orbital.app/Contents/Resources/resources/companion/companion.mjs
+7abcf39bd37ab251015337ff75304d7555f0d8e88c6e0fbf04bce8ce34636f49  apps/desktop/src-tauri/target/x86_64-apple-darwin/release/bundle/macos/Cobalix Orbital.app/Contents/Resources/resources/runtime/node
+46722fd477e03bc5930c3ef1772f4fc2b95e2d49ffda2d4ea2c931bc79fce817  RELEASE_MANIFEST.json
